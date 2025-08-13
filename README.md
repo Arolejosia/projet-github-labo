@@ -8,7 +8,7 @@ Il contient une page HTML simple hébergée via GitHub Pages.
 - `LICENSE` : Licence MIT avec mon nom et l'année 2025.
 
 ## Lien du site
-👉 [Lien vers mon site GitHub Pages](https://Arolejosia.github.io/projet-github-labo/)
+[Voir mon site en ligne](https://arolejosia.github.io/projet-github-labo/)
 
 ## Auteur
 Josia Damgne
